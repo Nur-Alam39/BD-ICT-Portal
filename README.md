@@ -1,6 +1,6 @@
 # BD ICT Portal
 
-This is a web based project for providing al kind of tools and resources for learning programming.
+This is a web based project for providing all kind of tools and resources for learning programming.
 
 
 ## Features
