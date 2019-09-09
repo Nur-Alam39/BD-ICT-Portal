@@ -2,11 +2,11 @@
 
 **Contents:** 1. Introduction 2. Features 3. Technologies 4. Screenshots
 
-## 1. Introduction
+## Introduction
 This is a web based project for providing all kind of tools and resources for learning programming.
 
 
-## 2. Features
+## Features
 
 - Programming related post
 - Olympiad: National and International
@@ -14,11 +14,11 @@ This is a web based project for providing all kind of tools and resources for le
 -   Online and onsite programming contest schedule
 -   Programming learning resources- Books, websites, youtube channel, blog, facebook group and page
 
-## 3. Technologies
+## Technologies
 
 HTML, CSS, Bootstrap4, Javascript, PHP,Ajax
 
-## 4. Screeenshots
+## Screeenshots
 
 **1. Information for School Programming Contest**
 
